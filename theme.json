@@ -1,0 +1,8 @@
+{
+    "name": "Darken",
+    "version": "1.0",
+    "description": "Dark theme for phpMyAdmin",
+    "author": "Matej Chalachán",
+    "url": "https://github.com",
+    "supports": ["4.8","4.9"]
+}
