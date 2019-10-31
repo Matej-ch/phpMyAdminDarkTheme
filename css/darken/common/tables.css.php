@@ -100,7 +100,8 @@ td.marked:not(.nomarker) {
 }
 
 table tr.marked:not(.nomarker) {
-  border-left: 3px solid #4285f4
+  border-left: 3px solid #4285f4;
+    background-color: #006100 !important;
 }
 
 table tr.hover:not(.nopointer) th {
