@@ -1,6 +1,6 @@
 # Darken (phpMyAdmin Theme)
 
-Dark theme for phpMyAdmin.
+Dark theme for phpMyAdmin 4.9.
 
 As base theme [fallen](https://github.com/fransallen/fallen) was taken and adjusted.
 
